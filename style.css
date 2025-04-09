@@ -3,7 +3,22 @@ body{background:rgb(203, 235, 239);
 font-family: fantasy;
 text-align:center;
 }
-h3{font-size: 200;}
+.sidenav{
+width: 50px;
+position:fixed;
+z-index: 1;
+top: 0%;
+left: 0%;
+background-color: rgb(78, 134, 158);
+overflow-x: hidden;
+padding-top: 20px;
 
-    img{ width: 500px;
+}
+h3{font-size: 250;}
+footer{background-color: rgb(64, 187, 218); 
+text-align: left;
+font-family: Cambria ;
+height: 400%;
+}
+ img{ width: 500px;
     }
