@@ -1,8 +1,9 @@
 body{background:rgb(203, 235, 239);
     color:rgb(87, 85, 85);
-font-family:'Cambria';
+font-family: fantasy;
 text-align:center;
 }
+h3{font-size: 200;}
 
     img{ width: 500px;
     }
